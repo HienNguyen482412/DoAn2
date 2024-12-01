@@ -1,1 +1,2 @@
 # Kiểm thử website Fahasa
+Fahasa.com là một trong những website thương mại điện tử hàng đầu tại Việt Nam, chuyên cung cấp sách, văn phòng phẩm, đồ chơi, quà lưu niệm, và các sản phẩm giáo dục. Fahasa nổi bật với kho sách phong phú, bao gồm sách trong nước và sách ngoại văn, đáp ứng nhu cầu của đa dạng đối tượng khách hàng. Ngoài ra, website còn tích hợp các chương trình khuyến mãi, dịch vụ giao hàng nhanh và tiện lợi, mang đến trải nghiệm mua sắm dễ dàng và thân thiện.
